@@ -14,7 +14,7 @@
 		<sonar.organization>bnasslahsen</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<resource.delimiter>@</resource.delimiter>
-		<jib-maven-plugin.version>3.2.0</jib-maven-plugin.version>
+		<jib-maven-plugin.version>3.4.3</jib-maven-plugin.version>
 		<springdoc.version>1.5.9</springdoc.version>
 	</properties>
 	<dependencies>
