@@ -86,7 +86,7 @@
 				<version>${jib-maven-plugin.version}</version>
 				<configuration>
 					<from>
-						<image>openopenjdk:17-slim</image>
+    <image>eclipse-temurin:17-jre</image>
 					</from>
 					<to>
 						<image>
