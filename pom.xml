@@ -86,7 +86,7 @@
 				<version>${jib-maven-plugin.version}</version>
 				<configuration>
 					<from>
-						<image>openjdk:8-jre-slim</image>
+						<image>openopenjdk:17-slim</image>
 					</from>
 					<to>
 						<image>
